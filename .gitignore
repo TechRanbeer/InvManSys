@@ -1,0 +1,20 @@
+# Java build directories
+/bin/
+/target/
+
+# Eclipse metadata
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDEs (optional future)
+.idea/
+*.iml
+nbproject/
