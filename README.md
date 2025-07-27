@@ -9,6 +9,13 @@ Built with **Eclipse IDE**, this system allows users to manage products, includi
 - 🛒 Sell items and update stock automatically  
 - 📋 View live inventory in a table
 
+
+### 📦 Download
+
+[Click here to download the latest JAR]
+https://github.com/TechRanbeer/InvManSys/archive/refs/tags/v1.0.0.zip
+
+
 ---
 
 ## 🛠️ Tech Stack
